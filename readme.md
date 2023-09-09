@@ -5,6 +5,7 @@ command for assembly stuff for testing directory:
 `nasm -f elf64 test.asm && ld test.o -o test`
 
 debug mode because I haven't used c/c++ in too long:
+
 `g++ -g <file>`
 
 `gdb <compiled file>`
